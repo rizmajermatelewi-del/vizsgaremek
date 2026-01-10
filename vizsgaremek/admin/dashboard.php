@@ -85,3 +85,4 @@ $totalBookings = $pdo->query("SELECT COUNT(*) FROM bookings")->fetchColumn();
     </div>
 </body>
 </html>
+abcd
